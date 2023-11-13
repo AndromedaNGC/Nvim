@@ -15,8 +15,8 @@ call plug#begin()
 	Plug 'akinsho/toggleterm.nvim', {'tag' : '*'}
 	Plug 'flazz/vim-colorschemes'
 	Plug 'vim-airline/vim-airline'
-  Plug 'ryanoasis/vim-devicons'
-  Plug 'preservim/nerdtree'
+	Plug 'ryanoasis/vim-devicons'
+	Plug 'preservim/nerdtree'
 	Plug 'http://github.com/tpope/vim-surround' 
 	Plug 'https://github.com/tc50cal/vim-terminal'
 	Plug 'https://github.com/preservim/tagbar'
