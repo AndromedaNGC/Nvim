@@ -1,4 +1,4 @@
-First steps 
+First steps
 
 mkdir -p ~/.config/nvim && touch ~/.config/nvim/init.vim
 
